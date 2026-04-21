@@ -16,9 +16,6 @@ This repository focuses on **high-fidelity image prompts** sourced from X (Twitt
 > **💡 Struggle with Seedance 2.0 Face Detection?**
 > Cyberbara now supports **real face uploads without limits!** Plus, enjoy our massive price drop. [Unlock your limits at cyberbara.com →](https://cyberbara.com/seedance2.0?utm_source=banana)
 
-### Sponsor2: [Free Sora Watermark Remover(Remove Sora logo under 3 seconds, up to 5 batch tasks)](https://thesorawatermarkremover.com?utm_source=banana)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/5a8fdc04-aeef-4ca8-9fda-4de3a6ca6109" />](https://thesorawatermarkremover.com?utm_source=banana)[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/7d29fbb9-dfe3-421b-bee4-d29f253dfcaa" />](https://thesorawatermarkremover.com?utm_source=banana)
-
 This repo gets up to **20,000 visitors per day**, [mail me](mailto:iamzerolu@gmail.com) if you want a limited sponsor slot!
 
 ## 📖 Table of Contents
